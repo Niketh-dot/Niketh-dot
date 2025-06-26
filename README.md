@@ -11,7 +11,7 @@
 
 🎓 Pursuing B.Tech in Computer Science (AI & ML)  
 📍 Based in Hyderabad, India  
-🔍 Passionate about Data Analysis, ML, and NLP  
+🔍 Passionate about Data Analysis, ML, and AI  
 📬 Reach me: **nikethsai.p@gmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/niketh-sai) | [LeetCode](https://leetcode.com/u/Niketh_Sai) | [HackerRank](https://www.hackerrank.com/profile/nikethsai_p)
 
