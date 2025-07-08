@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=Niketh-dot&label=Profile%20views&color=0e75b6&style=flat" alt="Niketh-dot" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI Developer GIF"/>
+</p>
+
 ---
 
 ### 💡 About Me
@@ -23,19 +27,32 @@
   → Streamlit-based web app to detect bullying in text/images using BERT, ResNet50 & OCR
 
 - **[PyFinder - Automated Search Engine](https://github.com/Niketh-dot/PyFinder)**  
-  → Custom web crawler & search engine with 40% response time improvement
+  → Custom file crawler & search engine with GUI and 40% faster response time
 
 - **[Cricket Data Analysis](https://github.com/Niketh-dot/Cricket_Analysis)**  
-  → Web scraped cricket data visualized in Power BI dashboards
+  → Web-scraped cricket data visualized via interactive dashboards in Power BI
+
+- **[Handwritten Digits Recognition](https://github.com/Niketh-dot/Handwritten_Digit_Recognition)**  
+  → Deep learning model trained on MNIST dataset using PyTorch/TensorFlow
+
+- **[RockPaperScissor AI Game](https://github.com/Niketh-dot/RockPaperScissor)**  
+  → AI-powered Rock-Paper-Scissors game with move prediction logic
 
 ---
 
 ### 💼 Skills & Tools
 
-**Languages:** Python, SQL, Java, C  
-**Libraries/Frameworks:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Tools:** Power BI, Tableau, Jupyter Notebook, Git, Streamlit, EasyOCR  
-**Specialties:** Data Cleaning, EDA, Dashboard Development, ML Modeling, OCR/NLP Integration
+**Languages:**  
+Python • SQL • Java • C  
+
+**Libraries / Frameworks:**  
+Pandas • NumPy • Matplotlib • Seaborn • Plotly • scikit-learn • EasyOCR • TensorFlow • PyTorch  
+
+**Tools / Platforms:**  
+Power BI • Tableau • Git & GitHub • Jupyter Notebook • Streamlit  
+
+**Specialties:**  
+Data Cleaning • EDA • Dashboard Development • OCR/NLP Integration • ML Model Building
 
 ---
 
@@ -50,14 +67,11 @@
 
 ### 📜 Certifications
 
-- Data Analytics (Deloitte, Quantium, Tech Tip 24)
-- Machine Learning (Kaggle), Deep Learning (Scaler)
-- SQL (Simplilearn), Tableau & Power BI (Tata)
-- AI Tools (Skill Nation)
+- Data Analytics (Deloitte, Quantium, Tech Tip 24)  
+- Machine Learning (Kaggle), Deep Learning (Scaler)  
+- SQL (Simplilearn), Tableau & Power BI (Tata)  
+- AI Tools  (Skill Nation)  
 
 ---
 
-### ⚡ Fun Fact
-
-> I’m currently building real-time AI apps, exploring Blender scripting, and love automating smart solutions! 🚀
 
