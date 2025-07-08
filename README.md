@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niketh Sai</h1>
-<h3 align="center">Aspiring Data Analyst | AI & ML Enthusiast | Python Developer</h3>
+<h3 align="center">Aspiring Data Analyst | AI & ML Enthusiast </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -50,10 +50,10 @@
 ### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm,py,vscode,stackoverflow,mongodb,tensorflow,pytorch,jupyter,git,github,c,java,anaconda,opencv,linkedin,mysql&perline=10" alt="Skills"/>
-  <br />
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau" alt="Tableau" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pycharm,python,vscode,stackoverflow,mongodb,tensorflow,pytorch,jupyter,git,github,c,java,anaconda,opencv,linkedin,mysql&perline=8" alt="skills" />
+  <br><br>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau" alt="Tableau" style="margin-right:15px;" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" alt="Power BI" />
 </p>
 
 ---
@@ -76,10 +76,4 @@
 
 ---
 
-### ⚡ Fun Fact
 
-> I’m currently building real-time AI apps, exploring Blender scripting, and love automating smart solutions! 🚀
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" alt="Working GIF"/>
-</p>
