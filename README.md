@@ -11,8 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=Niketh-dot&label=Profile%20views&color=0e75b6&style=flat" alt="Niketh-dot" />
 </p>
 
+<!-- ✅ Updated section below -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI Developer GIF"/>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250" alt="Data Analyst" title="Data Analyst" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="ML Engineer" title="ML Engineer" />
 </p>
 
 ---
@@ -47,7 +50,7 @@
 
 ---
 
-### 🧠 Skills & Tools
+### 🛠️ Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pycharm,python,vscode,stackoverflow,mongodb,tensorflow,pytorch,jupyter,git,github,c,java,anaconda,opencv,linkedin,mysql&perline=8" alt="skills" />
@@ -73,7 +76,3 @@
 🤖 Machine Learning (Kaggle) | Deep Learning (Scaler)  
 🗃 SQL (Simplilearn) | Tableau & Power BI (Tata)  
 🧠 AI Tools & Prompt Engineering (Skill Nation)
-
----
-
-
